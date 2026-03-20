@@ -12,9 +12,9 @@
   <tr>
     <!-- Colonne gauche : Skills -->
     <td valign="top" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=react,javascript" />
+      <img src="https://skillicons.dev/icons?i=javascript" />
       <img src="https://skillicons.dev/icons?i=java,php,python" /><br>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br>
+      <img src="https://skillicons.dev/icons?i=mysql" /><br>
       <img src="https://skillicons.dev/icons?i=phpstorm,git,github,notion" /><br>
       <img src="https://skillicons.dev/icons?i=photoshop,figma" />
     </td>
