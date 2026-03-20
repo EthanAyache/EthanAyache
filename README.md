@@ -1,1 +1,1 @@
-![Contribution snake example](https://github.com/EthanAyache/EthanAyache/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/EthanAyache/snake/output/github-contribution-grid-snake.svg)
